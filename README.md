@@ -20,7 +20,7 @@ Option Particle Ocean transforms complex financial data into an interactive, neo
     *   Toggle visibility for Call and Put options.
     *   Adjust visual parameters like particle glow, wave speed, alpha, and color gradients.
 *   **Hover Tooltips:** Get instant insights! Hover over any particle to see its specific Expiration, Strike, and current Y-axis metric value.
-*   **Custom CSV Upload:** Bring your own data! Upload a `spy_quotedata.csv` (formatted with headers on row 3, data from row 4) and watch the ocean reshape.
+*   **Custom CSV Upload:** Bring your own data! Upload a `{ticker}_quotedata.csv` (formatted with headers on row 3, data from row 4) and watch the ocean reshape.
 *   **User-Friendly Onboarding:**
     *   Elegant title display on load.
     *   "Press H for Instructions" hint.
