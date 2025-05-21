@@ -4,7 +4,7 @@
 
 Option Particle Ocean transforms complex financial data into an interactive, neon-glowing universe of particles. Explore expiration dates, strike prices, and key metrics like Ask, Implied Volatility, and Volume in a stunning and intuitive way.
 
-![sample](media/sample.PNG)
+![sample](media/sample.png)
 
 ---
 
