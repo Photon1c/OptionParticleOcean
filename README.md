@@ -32,22 +32,23 @@ Option Particle Ocean transforms complex financial data into an interactive, neo
 ## 🚀 Getting Started
 
 **Live Demo:**
-*(Link to your Netlify deployment will go here! Example: [https://your-option-ocean.netlify.app](https://your-option-ocean.netlify.app))*
+
+Page is live [here](https://cheddarbutler.com/threejs/optionparticleocean/)
 
 **Running Locally:**
 
 1.  Clone this repository:
     ```bash
-    git clone [URL_OF_YOUR_GITHUB_REPO]
+    git clone https://github.com/Photon1c/OptionParticleOcean/tree/main)
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd [YOUR_REPO_NAME]
+    cd OptionParticleOcean
     ```
 3.  Ensure you have the necessary local JavaScript libraries (`three.js`, `OrbitControls.js`) in the `quantumoptions/js/` directory as referenced by `neon_option_ocean.html`.
 4.  Open `neon_option_ocean.html` in your web browser.
     *   *Note: Some browsers might have security restrictions (CORS) when loading the `spy_quotedata.csv` or `instructions.js` directly from the file system. Running a simple local HTTP server is recommended for full functionality.*
-        *   For example, using Python: `python -m http.server` (Python 3) or `python -m SimpleHTTPServer` (Python 2) in the project directory, then navigate to `http://localhost:8000/neon_option_ocean.html`.
+        *   For example, using Python: `python -m http.server` (Python 3) or `python -m SimpleHTTPServer` (Python 2) in the project directory, then navigate to `http://localhost:8000/'
 
 ---
 
