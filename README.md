@@ -4,9 +4,7 @@
 
 Option Particle Ocean transforms complex financial data into an interactive, neon-glowing universe of particles. Explore expiration dates, strike prices, and key metrics like Ask, Implied Volatility, and Volume in a stunning and intuitive way.
 
-[![Netlify Status](https
-[//api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE_ID/deploy-status)](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_NAME/deploys) 
-*(Replace with your actual Netlify badge after deployment)*
+![sample](media/sample.PNG)
 
 ---
 
